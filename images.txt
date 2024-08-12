@@ -1,5 +1,9 @@
 bitnami/keycloak:16-debian-10
 tchiotludo/akhq:latest
+confluentinc/cp-zookeeper:latest
+confluentinc/cp-kafka:latest
+confluentinc/cp-schema-registry:latest
+confluentinc/cp-kafka-connect:latest
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
