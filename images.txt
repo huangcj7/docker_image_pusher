@@ -1,5 +1,5 @@
 bitnami/keycloak:16-debian-10
-tchiotludo/akhq:latest
+tchiotludo/akhq:0.23.0
 confluentinc/cp-zookeeper:latest
 confluentinc/cp-kafka:latest
 confluentinc/cp-schema-registry:latest
