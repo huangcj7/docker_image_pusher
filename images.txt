@@ -9,3 +9,8 @@ confluentinc/cp-kafka-connect:latest
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+
+#argocd
+quay.io/argoproj/argocd:v2.13.1
+ghcr.io/dexidp/dex:v2.41.1
+redis:7.0.15-alpine
