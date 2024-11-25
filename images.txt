@@ -16,3 +16,4 @@ ghcr.io/dexidp/dex:v2.41.1
 redis:7.0.15-alpine
 
 minio/minio:RELEASE.2024-10-29T16-01-48Z.fips
+minio/minio:RELEASE.2020-07-18T18-48-16Z-s390x
