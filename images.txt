@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2021-06-17T00-10-46Z
+bitnami/harbor-portal:2.10.0-debian-12-r8
