@@ -1,1 +1,1 @@
-bitnami/gitea:1.18.5-debian-11-r9
+gitea/gitea:1.18.5-linux-amd64
