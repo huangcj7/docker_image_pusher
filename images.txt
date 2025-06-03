@@ -1,1 +1,1 @@
-docker.io/hyper/docker-registry-web:v0.1.2
+bitnami/kafka:3.4.0
