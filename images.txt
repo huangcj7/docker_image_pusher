@@ -1,1 +1,2 @@
-coredns/coredns:coredns-arm64
+registry.k8s.io/kube-proxy:v1.20.7
+--platform=linux/arm64
