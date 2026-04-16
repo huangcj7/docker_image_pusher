@@ -1,1 +1,2 @@
-openstackhelm/openstack-client:2023.1-20240504
+--platform=linux/arm64 openresty/openresty:1.29.2.3-2-alpine-fat-arm64
+openresty/openresty:1.29.2.3-2-alpine-fat-amd64
