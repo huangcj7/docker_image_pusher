@@ -1,2 +1,2 @@
---platform=linux/arm64 openresty/openresty:1.29.2.3-2-alpine-fat-arm64
-openresty/openresty:1.29.2.3-2-alpine-fat-amd64
+--platform=linux/arm64 zookeeper:3.8.6
+zookeeper:3.8.6
