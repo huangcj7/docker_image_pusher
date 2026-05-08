@@ -1,2 +1,2 @@
---platform=linux/arm64 zookeeper:3.8.6
-zookeeper:3.8.6
+--platform=linux/arm64 ghcr.io/pab1it0/prometheus-mcp-server:latest
+ghcr.io/pab1it0/prometheus-mcp-server:latest
