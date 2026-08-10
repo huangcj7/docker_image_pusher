@@ -1,2 +1,2 @@
---platform=linux/arm64 ghcr.io/pab1it0/prometheus-mcp-server:latest
-ghcr.io/pab1it0/prometheus-mcp-server:latest
+--platform=linux/arm64 gaoyuan98/dameng_exporter:v1.2.0
+gaoyuan98/dameng_exporter:v1.2.0
